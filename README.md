@@ -1,4 +1,4 @@
-# Sklep internetowy "Multishop" - Backend 🛒
+# Sklep internetowy "Multishop" - Backend
 
 Projekt akademicki realizujący architekturę wielowarstwową dla systemu e-commerce.
 
